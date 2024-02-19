@@ -1,4 +1,4 @@
-# Outrun An EdgeTX Theme
+# Outrun - EdgeTX Theme
 ##### Created by Henry Oliver
 
 ![Logo](https://raw.githubusercontent.com/henry9836/Outrun-EdgeTX/master/THEMES/Outrun/logo.png)
